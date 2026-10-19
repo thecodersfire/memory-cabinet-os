@@ -24,3 +24,9 @@ The `memory-cabinet.svg` wallpaper is original. Memory Cabinet OS is an independ
 
 See [FEATURES.md](FEATURES.md) for three local tools included for digital archiving.
 
+
+The installer also includes three purpose-specific applications: **GNOME Calendar, KeePassXC, VSCodium**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **GNOME Calendar, Audacity, Foliate**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **GNOME Calendar, Audacity, Foliate**. See [FEATURES.md](FEATURES.md).
